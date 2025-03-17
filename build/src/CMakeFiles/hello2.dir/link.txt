@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello2.dir/main2.cpp.o -o /home/gulbaran/ws/edu-stdin/bin/hello2  ../lib/libgreetings.a 

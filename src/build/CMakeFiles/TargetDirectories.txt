@@ -1,0 +1,3 @@
+/home/gulbaran/ws/edu-stdin/src/build/CMakeFiles/greeter.dir
+/home/gulbaran/ws/edu-stdin/src/build/CMakeFiles/edit_cache.dir
+/home/gulbaran/ws/edu-stdin/src/build/CMakeFiles/rebuild_cache.dir

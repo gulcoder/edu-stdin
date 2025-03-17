@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/greeter.dir/main.cpp.o -o /home/gulbaran/ws/edu-stdin/bin/greeter  ../lib/libgreetings.a 
